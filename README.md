@@ -11,13 +11,13 @@ During Week 1, I developed foundational Excel skills, focusing on data organizat
 - Use basic functions such as `SUM`, `AVERAGE`, and `MAX` to calculate totals, averages, and identify maximum values in datasets.  
 - Apply conditional formatting to highlight specific data points and make patterns easier to spot.  
 - Work with pivot tables to summarize large datasets by categories such as county or product.  
-- Use formulas like `SWITCH` to categorize data based on specific conditions.
-- Created graphs and charts to visually represent data, making trends and comparisons easier to interpret.
+- Use formulas like `SWITCH` to categorize data based on specific conditions.  
+- **Created graphs and charts** to visually represent data, making trends and comparisons easier to interpret.  
 
 These skills improved my ability to manage, analyse, and present data effectively in Excel.  
 
 **Week 1 Workbook Screenshot – Excel**  
-![Week 1 Workbook Screenshot - Excel](Week 1 Workbook Screenshot - Excel.PNG)
+![Week 1 Workbook Screenshot - Excel](Week1_Excel.PNG)
 
 ---
 
@@ -40,7 +40,7 @@ During Week 2, I focused on developing data visualization and analytical skills 
 These activities enhanced my ability to analyse datasets, create meaningful visualizations, and present actionable insights to support data-driven decision-making.  
 
 **Week 2 Workbook Screenshot – Power BI & Tableau**  
-![Week 2 Workbook Screenshot - Power BI & Tableau](Week 2 Workbook Screenshot - Power BI & Tableau.PNG)
+![Week 2 Workbook Screenshot - Power BI & Tableau](Week2_Power BI_Tableau.PNG)
 
 ---
 
@@ -70,7 +70,7 @@ During Week 3, I focused on understanding and applying core database concepts an
 These tasks enhanced my understanding of database design, relational data management, and practical SQL skills, preparing me to create functional and efficient databases.  
 
 **Week 3 Workbook Screenshot – SQL**  
-![Week 3 Workbook Screenshot - SQL](Week 3 Workbook Screenshot - SQL.PNG)
+![Week 3 Workbook Screenshot - SQL](Week3_SQL.PNG)
 
 ---
 
@@ -93,11 +93,11 @@ During Week 4, I focused on developing knowledge of cloud computing concepts, cy
 These activities enhanced my understanding of cloud computing environments, cybersecurity legislation, and practical skills in using Azure to manage and explore relational data.  
 
 **Week 4 Workbook Screenshot – Azure**  
-![Week 4 Workbook Screenshot - Azure](Week 4 Workbook Screenshot - Azure.PNG)
+![Week 4 Workbook Screenshot - Azure](Week4_Azure.PNG)
 
 ---
 
-## Week 5 – Python and Data Analysis Skills Summary
+## Week 5 – Python
 
 During Week 5, I focused on Python programming and data analysis using Pandas, developing skills in coding, data manipulation, and exploration. Key activities included:  
 
@@ -131,4 +131,4 @@ During Week 5, I focused on Python programming and data analysis using Pandas, d
 These activities strengthened my ability to write Python code, manipulate and analyze datasets, and present insights in a clear and structured way, laying a solid foundation for data analysis projects.  
 
 **Week 5 Workbook Screenshot – Python**  
-![Week 5 Workbook Screenshot - Python](Week 5 Workbook Screenshot - Python.PNG)
+![Week 5 Workbook Screenshot - Python](Week5_Python.PNG)
