@@ -17,7 +17,7 @@ During Week 1, I developed foundational Excel skills, focusing on data organizat
 These skills improved my ability to manage, analyse, and present data effectively in Excel.  
 
 **Week 1 Workbook Screenshot – Excel**  
-![Week 1 Workbook Screenshot - Excel](Week1_Excel.PNG)
+(Week1_Excel.PNG)
 
 ---
 
