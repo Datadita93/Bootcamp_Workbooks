@@ -41,6 +41,7 @@ These activities enhanced my ability to analyse datasets, create meaningful visu
 
 **Week 2 Workbook Screenshot – Power BI & Tableau**  
 ![Week 2 Workbook Screenshot - Power BI & Tableau](Power_BI_Tableau.PNG)
+![Week 2 Workbook Screenshot - Power BI & Tableau](Power_BI_2.PNG)
 
 ---
 
