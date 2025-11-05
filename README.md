@@ -132,5 +132,6 @@ These activities strengthened my ability to write Python code, manipulate and an
 
 **Week 5 Workbook Screenshots – Python**  
 ![Week 5 Workbook Screenshot - Python](Python.PNG)
+
 **Week 5 Python Visulisation**
 ![Week 5 Python Visulisation Screenshot - Python](Python_2.PNG)
