@@ -3,7 +3,6 @@
 
 
 ## Week 1 – Excel
-
 During Week 1, I developed foundational Excel skills, focusing on data organization, basic calculations, and visualisation. I learned how to:  
 
 - **Create and format tables** to structure data efficiently.  
