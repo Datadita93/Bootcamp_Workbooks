@@ -25,9 +25,9 @@ These skills improved my ability to manage, analyse, and present data effectivel
 
 During Week 2, I focused on developing data visualization and analytical skills using Power BI and Tableau. Key tasks included:  
 
-- **Creating dashboards in Tableau** using the EMSI_JobChange_UK dataset:  
+- **Creating dashboards in Tableau & Power BI** using different dataset in skillable:  
   - A bar chart to display percentage changes.  
-  - A UK map visualization highlighting key city locations impacted.  
+  - A UK map visualization highlighting key city locations impacted.
 
 - **Conducting trend analyses** using different datasets:  
   - **Spotify dataset**: Identified trends and key insights that could inform future organizational projects.  
