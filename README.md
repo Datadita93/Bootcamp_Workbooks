@@ -6,12 +6,12 @@
 
 During Week 1, I developed foundational Excel skills, focusing on data organization and basic calculations. I learned how to:  
 
-- Create and format tables to structure data efficiently.  
-- Sort and filter data using dropdown menus to analyze information quickly.  
-- Use basic functions such as `SUM`, `AVERAGE`, and `MAX` to calculate totals, averages, and identify maximum values in datasets.  
-- Apply conditional formatting to highlight specific data points and make patterns easier to spot.  
-- Work with pivot tables to summarize large datasets by categories such as county or product.  
-- Use formulas like `SWITCH` to categorize data based on specific conditions.  
+- **Create and format tables** to structure data efficiently.  
+- **Sort and filter data using dropdown menus** to analyze information quickly.  
+- **Use basic functions such as `SUM`, `AVERAGE`, and `MAX`** to calculate totals, averages, and identify maximum values in datasets.  
+- **Apply conditional formatting** to highlight specific data points and make patterns easier to spot.  
+- **Work with pivot tables** to summarize large datasets by categories such as county or product.  
+- **Use formulas like `SWITCH`** to categorize data based on specific conditions.  
 - **Created graphs and charts** to visually represent data, making trends and comparisons easier to interpret.  
 
 These skills improved my ability to manage, analyse, and present data effectively in Excel.  
