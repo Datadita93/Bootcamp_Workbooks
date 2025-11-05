@@ -17,7 +17,7 @@ During Week 1, I developed foundational Excel skills, focusing on data organizat
 These skills improved my ability to manage, analyse, and present data effectively in Excel.  
 
 **Week 1 Workbook Screenshot – Excel**  
-![Week 1 Workbook Screenshot - Excel](Week1_Excel.PNG)
+![Week 1 Workbook Screenshot - Excel](Excel.PNG)
 
 ---
 
@@ -40,7 +40,7 @@ During Week 2, I focused on developing data visualization and analytical skills 
 These activities enhanced my ability to analyse datasets, create meaningful visualizations, and present actionable insights to support data-driven decision-making.  
 
 **Week 2 Workbook Screenshot – Power BI & Tableau**  
-![Week 2 Workbook Screenshot - Power BI & Tableau](Week2_Power_BI_Tableau.PNG)
+![Week 2 Workbook Screenshot - Power BI & Tableau](Power_BI_Tableau.PNG)
 
 ---
 
@@ -70,7 +70,7 @@ During Week 3, I focused on understanding and applying core database concepts an
 These tasks enhanced my understanding of database design, relational data management, and practical SQL skills, preparing me to create functional and efficient databases.  
 
 **Week 3 Workbook Screenshot – SQL**  
-![Week 3 Workbook Screenshot - SQL](Week3_SQL.PNG)
+![Week 3 Workbook Screenshot - SQL](SQL.PNG)
 
 ---
 
@@ -93,7 +93,7 @@ During Week 4, I focused on developing knowledge of cloud computing concepts, cy
 These activities enhanced my understanding of cloud computing environments, cybersecurity legislation, and practical skills in using Azure to manage and explore relational data.  
 
 **Week 4 Workbook Screenshot – Azure**  
-![Week 4 Workbook Screenshot - Azure](Week4_Azure.PNG)
+![Week 4 Workbook Screenshot - Azure](Azure.PNG)
 
 ---
 
@@ -131,4 +131,4 @@ During Week 5, I focused on Python programming and data analysis using Pandas, d
 These activities strengthened my ability to write Python code, manipulate and analyze datasets, and present insights in a clear and structured way, laying a solid foundation for data analysis projects.  
 
 **Week 5 Workbook Screenshot – Python**  
-![Week 5 Workbook Screenshot - Python](Week5_Python.PNG)
+![Week 5 Workbook Screenshot - Python](Python.PNG)
