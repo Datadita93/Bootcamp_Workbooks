@@ -40,7 +40,7 @@ During Week 2, I focused on developing data visualization and analytical skills 
 These activities enhanced my ability to analyse datasets, create meaningful visualizations, and present actionable insights to support data-driven decision-making.  
 
 **Week 2 Workbook Screenshot – Power BI & Tableau**  
-![Week 2 Workbook Screenshot - Power BI & Tableau](Power_BI_Tableau.PNG)
+![Week 2 Workbook Screenshot - Power BI & Tableau](Power_BI.PNG)
 
 ---
 
