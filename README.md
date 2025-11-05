@@ -1,8 +1,8 @@
-# Portfolio Summary: Workbooks 1 – 5
+# 📊 Portfolio Summary: Workbooks 1 – 5
 
 ---
 
-## Week 1 – Excel
+## 🧮 Week 1 – Excel
 
 During Week 1, I developed foundational Excel skills, focusing on data organization and basic calculations. I learned how to:  
 
@@ -21,7 +21,7 @@ These skills improved my ability to manage, analyse, and present data effectivel
 
 ---
 
-## Week 2 – Power BI & Tableau
+## 📈 Week 2 – Power BI & Tableau
 
 During Week 2, I focused on developing data visualization and analytical skills using Power BI and Tableau. Key tasks included:  
 
@@ -44,7 +44,7 @@ These activities enhanced my ability to analyse datasets, create meaningful visu
 
 ---
 
-## Week 3 – SQL Skills Summary
+## 🗃️ Week 3 – SQL Skills Summary
 
 During Week 3, I focused on understanding and applying core database concepts and SQL skills. Key activities included:  
 
@@ -74,7 +74,7 @@ These tasks enhanced my understanding of database design, relational data manage
 
 ---
 
-## Week 4 – Azure
+## ☁️ Week 4 – Azure
 
 During Week 4, I focused on developing knowledge of cloud computing concepts, cybersecurity legislation, and practical experience with Azure. Key activities included:  
 
@@ -97,7 +97,7 @@ These activities enhanced my understanding of cloud computing environments, cybe
 
 ---
 
-## Week 5 – Python
+## 🐍 Week 5 – Python
 
 During Week 5, I focused on Python programming and data analysis using Pandas, developing skills in coding, data manipulation, and exploration. Key activities included:  
 
