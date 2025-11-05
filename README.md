@@ -130,7 +130,9 @@ During Week 5, I focused on Python programming and data analysis using Pandas, d
 
 - **Working with real-world datasets**:  
   - Explored GDP data, selecting columns, displaying rows, and performing basic analysis.  
-  - Collaborated on group activities to explore data interactively and creatively in Jupyter notebooks.  
+  - Collaborated on group activities to explore data interactively and creatively in Jupyter notebooks.
+ 
+- **Made visulisation with python codes**
 
 These activities strengthened my ability to write Python code, manipulate and analyze datasets, and present insights in a clear and structured way, laying a solid foundation for data analysis projects.  
 
