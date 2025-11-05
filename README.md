@@ -11,7 +11,7 @@ During Week 1, I developed foundational Excel skills, focusing on data organizat
 - **Use basic functions such as SUM, AVERAGE, and MAX** to calculate totals, averages, and identify maximum values in datasets.  
 - **Apply conditional formatting** to highlight specific data points and make patterns easier to spot.  
 - **Work with pivot tables** to summarize large datasets by categories such as county or product.  
-- **Use formulas like `SWITCH`** to categorize data based on specific conditions.  
+- **Use formulas like SWITCH** to categorize data based on specific conditions.  
 - **Created graphs and charts** to visually represent data, making trends and comparisons easier to interpret.  
 
 These skills improved my ability to manage, analyse, and present data effectively in Excel.  
@@ -62,11 +62,11 @@ During Week 3, I focused on understanding and applying core database concepts an
   - Analyzed business requirements, identifying data needs for inventory, sales, customer information, and loyalty programs.  
   - Designed database schema including tables and relationships to efficiently manage operations.  
   - Wrote SQL examples to create tables, define relationships, and implement constraints.  
-  - Practiced populating databases with `INSERT` statements and maintaining accuracy.  
+  - Practiced populating databases with INSERT statements and maintaining accuracy.  
   - Considered database maintenance, backups, and security measures to ensure a robust system.  
 
 - **SQL practical exercises**:  
-  - Set up and explored the `world_db` database.  
+  - Set up and explored the world_db database.  
   - Executed SQL queries to retrieve and manipulate data.  
   - Documented both the SQL syntax and the query outputs, reinforcing hands-on experience.  
 
