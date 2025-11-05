@@ -130,5 +130,6 @@ During Week 5, I focused on Python programming and data analysis using Pandas, d
 
 These activities strengthened my ability to write Python code, manipulate and analyze datasets, and present insights in a clear and structured way, laying a solid foundation for data analysis projects.  
 
-**Week 5 Workbook Screenshot – Python**  
+**Week 5 Workbook Screenshots – Python**  
 ![Week 5 Workbook Screenshot - Python](Python.PNG)
+![Week 5 Python Visulisation Screenshot - Python](Python_2.PNG)
