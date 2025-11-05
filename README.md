@@ -36,10 +36,10 @@ During Week 2, I focused on developing data visualization and analytical skills 
 - **Understanding the value of data in decision-making**: Reflected on how insights from health data can support NHS planning, resource allocation, and patient care improvements.  
 
 - **Completing practical labs (Lab 1–5) in Skillable**: Developed hands-on experience with Power BI and Tableau functionalities, including creating visualizations, connecting datasets, and building interactive dashboards.
-- Experimented with conditional formatting and colour schemes to improve user experience and readability.  
-- Used filters and slicers to refine results and allow interactive exploration within dashboards.  
-- Learned to clean, transform, and load data using Power Query (“Transform Data” view), applying data-quality checks for missing, null, and out-of-range values.
-
+  - Experimented with conditional formatting and colour schemes to improve user experience and readability.  
+  - Used filters and slicers to refine results and allow interactive exploration within dashboards.  
+  - Learned to clean, transform, and load data using Power Query (“Transform Data” view), applying data-quality checks for missing, null, and out-of-range values.
+   
 These activities enhanced my ability to analyse datasets, create meaningful visualizations, and present actionable insights to support data-driven decision-making.  
 
 **Week 2 Workbook Screenshot – Power BI & Tableau**  
