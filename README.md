@@ -45,7 +45,7 @@ These activities enhanced my ability to analyse datasets, create meaningful visu
 ![Week 2 Workbook Screenshot - Power BI & Tableau](Power_BI_Tableau.PNG)
 ![Week 2 Workbook Screenshot - Power BI & Tableau](Power_BI_2.PNG)
 
----
+
 
 ## Week 3 – SQL Skills Summary
 
@@ -75,7 +75,7 @@ These tasks enhanced my understanding of database design, relational data manage
 **Week 3 Workbook Screenshot – SQL**  
 ![Week 3 Workbook Screenshot - SQL](SQL.PNG)
 
----
+
 
 ## Week 4 – Azure
 
@@ -98,7 +98,7 @@ These activities enhanced my understanding of cloud computing environments, cybe
 **Week 4 Workbook Screenshot – Azure**  
 ![Week 4 Workbook Screenshot - Azure](Azure.PNG)
 
----
+
 
 ## Week 5 – Python
 
