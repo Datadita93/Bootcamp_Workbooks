@@ -19,7 +19,6 @@ These skills improved my ability to manage, analyse, and present data effectivel
 **Week 1 Workbook Screenshot – Excel**  
 ![Week 1 Workbook Screenshot - Excel](Excel.PNG)
 
----
 
 ## 📈 Week 2 – Power BI & Tableau
 
