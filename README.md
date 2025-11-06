@@ -1,4 +1,4 @@
-## 📘 Introduction  
+## Introduction  
 
 This portfolio shares my journey into data analysis, bringing together my education, and hands-on projects. It includes my **Week 1–5 workbook projects** from the **Level 3 Data Technician Bootcamp**, where I learned to work with tools like **Excel**, **Power BI**, **Tableau**, **SQL**, **Azure**, and **Python**. Each project shows how I’ve developed my technical skills and analytical thinking, and how I’m ready to apply them to real-world, data-driven work.
 
