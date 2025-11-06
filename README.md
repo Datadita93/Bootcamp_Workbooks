@@ -3,8 +3,12 @@
 This portfolio shares my journey into data analysis, bringing together my education, and hands-on projects. It includes my **Week 1–5 workbook projects** from the **Level 3 Data Technician Bootcamp**, where I learned to work with tools like **Excel**, **Power BI**, **Tableau**, **SQL**, **Azure**, and **Python**. Each project shows how I’ve developed my technical skills and analytical thinking, and how I’m ready to apply them to real-world, data-driven work.
 
 
-# Portfolio Summary: Workbooks 1 – 5
+## About me
 
+I’m a motivated and detail-oriented individual currently completing a Level 3 Data Technician Bootcamp, where I’m getting hands-on experience with Excel, SQL, Azure, and Python. My passion for data analysis actually started back at university during my Psychology degree, when I worked with my own research data and realised how exciting it is to uncover insights from numbers. On top of that, my time in customer service has helped me develop strong communication, teamwork, and problem-solving skills. I’m now looking forward to applying my data skills in a professional setting, continuing to learn, and contributing to projects that make an impact.
+
+
+# Portfolio Summary: Workbooks 1 – 5
 
 
 ## Week 1 – Excel
