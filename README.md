@@ -80,6 +80,7 @@ These tasks enhanced my understanding of database design, relational data manage
 
 **Week 3 Workbook Screenshot – SQL**  
 ![Week 3 Workbook Screenshot - SQL](SQL.PNG)
+![Week 3 Workbook Screenshot - SQL](SQL_2.PNG)
 
 
 
