@@ -4,6 +4,8 @@ I am a detail-oriented and motivated individual completing a Level 3 Data Techni
 
 This portfolio highlights my education, work experience, and Week 1–5 Bootcamp projects, demonstrating the growth of my technical and analytical abilities. Combined with my customer service experience, which strengthened my teamwork, communication, and problem-solving skills, I am ready to apply these skills to real-world, data-driven projects.
 
+[View my Canva Portfolio](https://github.com/Datadita93/Bootcamp_Workbooks/blob/main/README.md)
+
 
 # Portfolio Summary: Workbooks 1 – 5
 
@@ -21,7 +23,7 @@ During Week 1, I developed foundational Excel skills, focusing on data organizat
 
 These skills improved my ability to manage, analyse, and present data effectively in Excel.  
 
-**Week 1 Workbook Screenshot – Excel**  
+**Week 1 Workbook Screenshots – Excel**  
 ![Week 1 Workbook Screenshot - Excel](Excel.PNG)
 ![Week 1 Workbook Screenshot - Excel](Excel_2.PNG)
 
@@ -47,7 +49,7 @@ During Week 2, I focused on developing data visualization and analytical skills 
    
 These activities enhanced my ability to analyse datasets, create meaningful visualizations, and present actionable insights to support data-driven decision-making.  
 
-**Week 2 Workbook Screenshot – Power BI & Tableau**  
+**Week 2 Workbook Screenshots – Power BI & Tableau**  
 ![Week 2 Workbook Screenshot - Power BI & Tableau](Power_BI_Tableau.PNG)
 ![Week 2 Workbook Screenshot - Power BI & Tableau](Power_BI_2.PNG)
 
@@ -78,7 +80,7 @@ During Week 3, I focused on understanding and applying core database concepts an
 
 These tasks enhanced my understanding of database design, relational data management, and practical SQL skills, preparing me to create functional and efficient databases.  
 
-**Week 3 Workbook Screenshot – SQL**  
+**Week 3 Workbook Screenshots – SQL**  
 ![Week 3 Workbook Screenshot - SQL](SQL.PNG)
 ![Week 3 Workbook Screenshot - SQL](SQL_2.PNG)
 
