@@ -4,7 +4,7 @@ I am a detail-oriented and motivated individual completing a Level 3 Data Techni
 
 This portfolio highlights my education, work experience, and Week 1–5 Bootcamp projects, demonstrating the growth of my technical and analytical abilities. Combined with my customer service experience, which strengthened my teamwork, communication, and problem-solving skills, I am ready to apply these skills to real-world, data-driven projects.
 
-[View my Canva Portfolio](https://github.com/Datadita93/Bootcamp_Workbooks/blob/main/README.md)
+[View my Canva Portfolio](https://editaportfolio.my.canva.site/data-analyst)
 
 
 # Portfolio Summary: Workbooks 1 – 5
